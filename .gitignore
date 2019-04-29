@@ -183,3 +183,9 @@ local_settings.py
 db.sqlite3
 *.pot
 
+# Kotlin
+*.kotlin_module
+*.kjsm
+*.kt
+*.ktm
+*.kts
