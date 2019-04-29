@@ -110,6 +110,8 @@ public class M01BasicsExercises02 {
    * Stores 3 different numbers in different variables and displays their values on the screen
    * Adds those variables together and stores that in a new variables
    * Displays answer twice
+   *
+   * @version 1.0
    */
   public void BestAdderEver() {
     System.out.println("---------------------------------------------------");
