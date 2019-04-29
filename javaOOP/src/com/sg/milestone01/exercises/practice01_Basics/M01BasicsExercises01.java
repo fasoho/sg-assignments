@@ -7,7 +7,7 @@ package com.sg.milestone01.exercises.practice01_Basics;
  *
  * This section introduces some coding exercises on the basics of Java syntax and execution.
  */
-public class M01BasicsExercises {
+public class M01BasicsExercises01 {
 
 
   /**

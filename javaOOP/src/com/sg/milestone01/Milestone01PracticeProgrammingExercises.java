@@ -1,7 +1,7 @@
 package com.sg.milestone01;
 
-import com.sg.milestone01.exercises.practice01_Basics.M01BasicsExercises;
-import com.sg.milestone01.exercises.practice02_Variables.M02BasicsExercises;
+import com.sg.milestone01.exercises.practice01_Basics.M01BasicsExercises01;
+import com.sg.milestone01.exercises.practice02_Variables.M01BasicsExercises02;
 
 /**
  * @project javaOOP
@@ -12,20 +12,20 @@ public class Milestone01PracticeProgrammingExercises {
 
   public static void main(String[] args) {
 
-    M01BasicsExercises m01BasicsExercises = new M01BasicsExercises();
-    M02BasicsExercises m02BasicsExercises = new M02BasicsExercises();
+    M01BasicsExercises01 m01BasicsExercises01 = new M01BasicsExercises01();
+    M01BasicsExercises02 m01BasicsExercises02 = new M01BasicsExercises02();
 
-    m01BasicsExercises.ABeginning();
-    m01BasicsExercises.ProjectGutenberg();
-    m01BasicsExercises.CommentingCode();
-    m01BasicsExercises.AllTheMaths();
+    m01BasicsExercises01.ABeginning();
+    m01BasicsExercises01.ProjectGutenberg();
+    m01BasicsExercises01.CommentingCode();
+    m01BasicsExercises01.AllTheMaths();
 
-    m02BasicsExercises.InABucket();
-    m02BasicsExercises.MoreBucketsMoreFun();
-    m02BasicsExercises.TheOrderOfThings();
-    m02BasicsExercises.BestAdderEver();
-    m02BasicsExercises.AllAboutMe();
-    m02BasicsExercises.MenuOfChampions();
+    m01BasicsExercises02.InABucket();
+    m01BasicsExercises02.MoreBucketsMoreFun();
+    m01BasicsExercises02.TheOrderOfThings();
+    m01BasicsExercises02.BestAdderEver();
+    m01BasicsExercises02.AllAboutMe();
+    m01BasicsExercises02.MenuOfChampions();
 
   }
 

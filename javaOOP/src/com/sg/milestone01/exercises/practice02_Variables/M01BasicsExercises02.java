@@ -5,7 +5,7 @@ package com.sg.milestone01.exercises.practice02_Variables;
  * @user jp
  * @date 2019-04-29
  */
-public class M02BasicsExercises {
+public class M01BasicsExercises02 {
   /**
    * Exercise 01: In A Bucket
    * Method that practices using variables
